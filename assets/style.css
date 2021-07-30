@@ -1,0 +1,55 @@
+*{
+    font-family:'Press Start 2p', sans-serif;
+}
+html {
+    height: 100%;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    overflow: hidden;
+  }
+  
+.title{
+    text-align: center;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    overflow: hidden;
+    padding: 20px;
+    color: antiquewhite;
+}
+
+.title2{
+    font-size: 25px;
+    width: 100%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.title3{
+    font-size: 35px;
+    margin-left:5%;
+    margin-top: 5%;
+}
+
+hr{
+    width: 125%;
+}
+
+input#city{
+    background-color: #5b6c81;
+    margin-left: 5%;
+}
+
+header.row{
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    overflow: hidden;
+}
+
+button#search{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+    overflow: hidden;
+    outline: none;
+    border: none;
+    padding: 5px;
+
+}
