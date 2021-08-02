@@ -115,6 +115,7 @@ $('#search').on('click', function(){
     })
 })
 
+//Saved Cities button function
 $('#searchHistory').on('click','#pastSearch', function(){
     searchDisplay($(this).text())
 })
